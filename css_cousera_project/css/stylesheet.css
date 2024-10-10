@@ -1,0 +1,29 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 150%;
+}
+header{
+    background-color: beige;
+}
+nav{
+    background-color: rgb(174, 253, 3);
+    text-align: center
+}
+main{
+    background-color: rgb(16, 240, 150);
+}
+footer{
+    background-color: rgb(233, 171, 126);
+}
+li{
+    display: inline;
+    width: 40%;
+    padding: 6%;
+}
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    line-height:normal;
+}
